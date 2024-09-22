@@ -21,55 +21,27 @@
 <a href="https://github.com/Ux4hack/CyberMux/pulse">
 <img alt="Last Updated" src="https://img.shields.io/github/last-commit/Ux4hack/CyberMux?style=flat&color=e06c75&label="> </a>
 
-<h3>💡 Olá Seja Bem Vindo Ao Meu Perfil vamos ver o meu painel?</h3>
+<h3>💡 Olá Seja Bem Vindo Ao Meu Perfil.</h3>
 </a>
 </div>
  
 ---
 
-## Caracteristicas :
+## Oque Irei Fazer :
 
-* Seu Termux Totalmente Personalizado.
-* Instalar Somente Se Não Tiver Outro Banner
-* Totalmente Um Hub
-* Instalar O **NEOVIM** Um Editor, util para programadores.
+* Irei Ajudar Você Com Programação.
+* Scripts Kali Linux & Termux
+* Me Chame No Telegram Ou Instagram
+* Dicas Para A Programação
 * Muito Mais.
 - > ` Autor: SnowDoge `
 
 
-## Vista Previa 👀❤ :
 
-![LogoFacha](https://github.com/Ux4hack/CyberMux/blob/main/.2logo.png)
-
-## 🔥 Instalação:
-
-```bash
-# Atualizar Os Repositórios:
-yes|pkg update && pkg upgrade
-
-# Instala requisitos:
-yes|pkg install git
-
-# Descarga:
-git clone https://github.com/HenrySnowDoge/
-
-# Entrar no Diretório:
-cd CyberMux
-
-# Dar Permissões:
-chmod +x *
-
-# E Executar:
- bash CyberMux
-
-# Logo Pedirá Seu NickName, Pois Será Exemplar para ser personalizado.
-
-```
----
 
 ## Minhas Redes Sociais:
 
 <p align="center">
 <a href="https://www.facebook.com/Er4NotFound?mibextid=ZbWKwL)"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook"></a>
 <a href="https://t.me/Ux4hack"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://instagram.com/erasmogalvez_404?igshid=NGExMmI2YTkyZg=="><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/caramelin.dev?igsh=MWMwb3pqYzZjMmVlNA=="><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a>
