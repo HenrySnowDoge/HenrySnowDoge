@@ -1,39 +1,75 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=7B7D7D&height=150&section=header)
 <p align="center">
-
-<p align=center> Welcome! </p>
-
-
-<p align="center">
-<img width="80%" src="https://github.com/HenrySnowDoge//blob/main/ux4.gif" />
+<a href="https://github.com/"><img alt="AwesomeWM Logo" height="200" align = "center" src="https://github.com/Ux4hack/CyberMux/blob/main/.logo.png"></a> 
 </p>
 
-<p align=center> <img src=https://komarev.com/ghpvc/?username=SnowDoge&color=FF0000&style=plastic /> </p>
+<div align = "center">
+<a href="https://github.com/Ux4hack/CyberMux/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/Ux4hack/CyberMux?style=flat&color=eee&label="> </a>
 
-</p>
+<a href="https://github.com/Ux4hack/CyberMux/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/Ux4hack/CyberMux?style=flat&color=ffaaf2&label=People"> </a>
+
+<a href="https://github.com/Ux4hack/CyberMux/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/Ux4hack/CyberMux?style=flat&color=98c379&label=Stars"></a>
+
+<a href="https://github.com/Ux4hack/CyberMux/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/Ux4hack/CyberMux?style=flat&color=66a8e0&label=Forks"> </a>
+
+<a href="https://github.com/Ux4hack/CyberMux/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/Ux4hack/CyberMux?style=flat&color=f5d08b&label=Watches"> </a>
+
+<a href="https://github.com/Ux4hack/CyberMux/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/Ux4hack/CyberMux?style=flat&color=e06c75&label="> </a>
+
+<h3>💡 Olá Seja Bem Vindo Ao Meu Perfil vamos ver o meu painel?</h3>
+</a>
+</div>
+ 
+---
+
+## Caracteristicas :
+
+* Seu Termux Totalmente Personalizado.
+* Instalar Somente Se Não Tiver Outro Banner
+* Totalmente Um Hub
+* Instalar O **NEOVIM** Um Editor, util para programadores.
+* Muito Mais.
+- > ` Autor: SnowDoge `
+
+
+## Vista Previa 👀❤ :
+
+![LogoFacha](https://github.com/Ux4hack/CyberMux/blob/main/.2logo.png)
+
+## 🔥 Instalação:
+
+```bash
+# Atualizar Os Repositórios:
+yes|pkg update && pkg upgrade
+
+# Instala requisitos:
+yes|pkg install git
+
+# Descarga:
+git clone https://github.com/HenrySnowDoge/
+
+# Entrar no Diretório:
+cd CyberMux
+
+# Dar Permissões:
+chmod +x *
+
+# E Executar:
+ bash CyberMux
+
+# Logo Pedirá Seu NickName, Pois Será Exemplar para ser personalizado.
+
+```
+---
+
+## Minhas Redes Sociais:
+
 <p align="center">
-<a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=HenrySnowDoge&show_icons=true&theme=dark&locale=es&cache_seconds=2500&show_border=true&icon_color=31ff0d&title_color=FF0000&bg_color=101010&include_all_commits=true"></a>
-</p>
-<p>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ux4hack&theme=dark&border_radius=8.5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&ring=FF0000)](https://git.io/streak-stats)
-
-<h3 align="left">Languages and Tools:</h3>
-</p>
-<p align="center">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img 
-</p>
-<p>
-    
-<h3 align="left">Redes Sociales:</h3>
-
-<p align="center">
-<a href="https://github.com/HenrySnowDoge" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/github.png" width="150"></a> 
-<a href="https://www.facebook.com/profile.php?id=61555669688959&mibextid=ZbWKwL" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/facebook.png" width="150"></a>
- <a
-href="https://Instagram.com-siguemeputo@is.gd/TtpZXE" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/instagram.png" width="150"></a>  
-</p>  
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=7B7D7D&height=150&section=footer)
+<a href="https://www.facebook.com/Er4NotFound?mibextid=ZbWKwL)"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook"></a>
+<a href="https://t.me/Ux4hack"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://instagram.com/erasmogalvez_404?igshid=NGExMmI2YTkyZg=="><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram"></a>
